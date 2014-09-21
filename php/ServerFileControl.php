@@ -1,5 +1,5 @@
 <?php
-	interface iServerControl
+	interface iServerFileControl
 	{
 		public function getFiles($dir);
 
