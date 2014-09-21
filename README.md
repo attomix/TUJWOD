@@ -1,4 +1,4 @@
 #TUJWOD
 Tom and Jacobs WebPanel of Doom
 
-Some code and readme coomign soon ;)
+Some code and readme cooming soon ;)
